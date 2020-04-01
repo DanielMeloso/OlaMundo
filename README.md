@@ -1,2 +1,2 @@
-# OlaMundo
- primeiro repositório para realizar testes do estudo de Git e GitHub
+# Olá, Mundo
+ Primeiro repositório para realizar testes do estudo de Git e GitHub.
